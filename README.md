@@ -40,4 +40,9 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## String
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
