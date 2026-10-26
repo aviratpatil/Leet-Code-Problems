@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
