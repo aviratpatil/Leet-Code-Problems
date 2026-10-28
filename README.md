@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
