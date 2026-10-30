@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -50,11 +51,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
