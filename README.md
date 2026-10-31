@@ -57,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0796-rotate-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aviratpatil/Leet-Code-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
